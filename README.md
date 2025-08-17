@@ -46,6 +46,7 @@
       <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" title="C++" height="40"/></a>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" alt="C#" title="C#" height="40"/></a>
       <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="SQL" title="SQL" height="40"/></a>
+      <a href="https://https://go.dev/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go" height="40"/></a>
     </td>
   </tr>
   <tr>
