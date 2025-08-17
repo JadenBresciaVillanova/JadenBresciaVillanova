@@ -44,7 +44,7 @@
 <!-- This table creates the side-by-side layout for Frontend and Backend -->
 <table align="center" style="width:100%; border:none;">
   <tr>
-    <td align="center" valign="top">
+     <td align="center" valign="top" style="background-color: white;">
       <h3>Frontend Development</h3>
       <p>
         <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" title="React" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
