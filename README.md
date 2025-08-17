@@ -123,12 +123,6 @@
 
 </div>
 <!-- This table creates the 2x2 grid for your projects. -->
-<div align="center">
-  
-## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
-
-</div>
-<!-- This table creates the 2x2 grid for your projects. -->
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
