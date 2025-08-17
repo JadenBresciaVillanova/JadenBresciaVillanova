@@ -112,7 +112,6 @@ I'm a passionate full-stack developer with a love for creating elegant and effic
 </p>
 
 
----
 <div align="center">
   
 ## 🏆 My Projects
