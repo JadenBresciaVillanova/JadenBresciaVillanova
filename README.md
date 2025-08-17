@@ -33,7 +33,7 @@ I'm a passionate full-stack developer with a passion for creating innovative and
 
 </div>
 
-<!-- Languages -->
+<!-- Languages Section -->
 <div align="center">
   <h3>Languages</h3>
   <p>
@@ -50,30 +50,30 @@ I'm a passionate full-stack developer with a passion for creating innovative and
   </p>
 </div>
 
-<!-- This table holds the Frontend and Backend sections side-by-side. -->
-<table width="100%">
+<!-- This table creates the side-by-side layout for Frontend and Backend. -->
+<table align="center" style="width:100%; border:none;">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td align="center" valign="top">
       <h3>Frontend Development</h3>
       <p>
         <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" title="React" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" alt="Angular" title="Angular" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML5" title="HTML5" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS3" title="CSS3" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="40"/></a>
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td align="center" valign="top">
       <h3>Backend & Frameworks</h3>
       <p>
         <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png" alt="Django" title="Django" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" title="Firebase" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" title="Firebase" height="40"/></a>
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Cloud & DevOps -->
+<!-- Cloud & DevOps Section -->
 <div align="center">
   <h3>Cloud & DevOps</h3>
   <p>
@@ -84,44 +84,43 @@ I'm a passionate full-stack developer with a passion for creating innovative and
     <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" title="Terraform" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" alt="Jenkins" title="Jenkins" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://azure.microsoft.com/en-us/products/devops/pipelines"><img src="https://img.shields.io/badge/Azure_Pipelines-2C2D30?style=for-the-badge&logo=azuredevops&logoColor=0078D4" alt="Azure Pipelines" title="Azure Pipelines" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/en-us/products/devops/pipelines"><img src="https://img.shields.io/badge/Azure_Pipelines-2C2D30?style=for-the-badge&logo=azuredevops&logoColor=0078D4" alt="Azure Pipelines" title="Azure Pipelines" height="40"/></a>
   </p>
 </div>
 
-<!-- This table holds the Mobile and Data Science sections side-by-side. -->
-<table width="100%">
+<!-- This table creates the side-by-side layout for Mobile and Data Science. -->
+<table align="center" style="width:100%; border:none;">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td align="center" valign="top">
       <h3>Mobile Development</h3>
       <p>
         <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React Native" title="React Native" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flutter.png" alt="Flutter" title="Flutter" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://expo.dev/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://expo.dev/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="40"/></a>
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td align="center" valign="top">
       <h3>Data Science & AI</h3>
       <p>
         <a href="https://www.tensorflow.org"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel" height="40"/></a>
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Tools & Operating Systems -->
+<!-- Tools & OS Section -->
 <div align="center">
   <h3>Tools & OS</h3>
   <p>
     <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" alt="Android Studio" title="Android Studio" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" title="Linux" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.google.com/recaptcha/about/"><img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="reCAPTCHA" title="reCAPTCHA" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.google.com/recaptcha/about/"><img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="reCAPTCHA" title="reCAPTCHA" height="40"/></a>
   </p>
 </div>
-
 
 
 <div align="center">
