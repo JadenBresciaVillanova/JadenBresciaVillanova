@@ -16,7 +16,12 @@
   </h1>
 </div>
 
-
+<div align="left">
+## About Me
+  <p>
+    I'm passionate about software engineering because it offers me the chance to craft innovative solutions that can make a real difference in the world, whether it's building intuitive mobile apps or creating sophisticated algorithms to tackle complex problems. This field's constant evolution keeps me engaged and ensures I'm always learning something new. Any dynamic, collaborative career that aligns with my passion for problem-solving and learning new technology excites me.
+  </p>
+</div>
 
 <div align="left">
   
