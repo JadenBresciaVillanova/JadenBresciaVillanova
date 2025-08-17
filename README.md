@@ -40,13 +40,17 @@
       <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript" height="40"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" title="TypeScript" height="40"/></a>
-      <a href="https://dart.dev"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.png" alt="Dart" title="Dart" height="40"/></a>
-      <a href="https://www.scala-lang.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scala.png" alt="Scala" title="Scala" height="40"/></a>
+     
+
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" alt="C" title="C" height="40"/></a>
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" title="C++" height="40"/></a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" alt="C#" title="C#" height="40"/></a>
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="SQL" title="SQL" height="40"/></a>
+
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" alt="C#" title="C#" height="40"/>
+            <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="SQL" title="SQL" height="40"/></a>
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" title="C++" height="40"/></a></a>
+
+            <a href="https://www.scala-lang.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scala.png" alt="Scala" title="Scala" height="40"/></a>
       <a href="https://https://go.dev/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go" height="40"/></a>
+       <a href="https://dart.dev"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.png" alt="Dart" title="Dart" height="40"/></a>
     </td>
   </tr>
   <tr>
