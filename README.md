@@ -123,6 +123,7 @@
 
 </div>
 <!-- This table creates the 2x2 grid for your projects. -->
+<!-- This table creates the 2x2 grid for your projects. -->
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
@@ -227,3 +228,4 @@
     </td>
   </tr>
 </table>
+
