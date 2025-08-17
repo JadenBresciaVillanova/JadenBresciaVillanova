@@ -52,11 +52,6 @@ d: path("M 0,500 L 0,291 C 145.28571428571428,306.75 290.57142857142856,322.5 40
 }
 }</style><defs><linearGradient id="gradient" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="5%" stop-color="#0693e3"></stop><stop offset="95%" stop-color="#8ED1FC"></stop></linearGradient></defs><path d="M 0,500 L 0,291 C 145.28571428571428,306.75 290.57142857142856,322.5 402,325 C 513.4285714285714,327.5 590.9999999999999,316.75 703,307 C 815.0000000000001,297.25 961.4285714285713,288.5 1090,286 C 1218.5714285714287,283.5 1329.2857142857142,287.25 1440,291 L 1440,500 L 0,500 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-1" transform="rotate(-180 720 250)"></path></svg>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grubers-R-us/grubers-R-us/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grubers-R-us/grubers-R-us/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/grubers-R-us/grubers-R-us/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- Typewriter Animation -->
 <div align="center">
