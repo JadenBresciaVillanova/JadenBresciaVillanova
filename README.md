@@ -126,29 +126,33 @@
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
-    <td width="50%" valign="top">
-      <!-- Project 1: Divvy -->
-      <a href="https://github.com/JadenBresciaVillanova/Divvy">
-        <img src="https://jadenbrescia.com/assets/DivvyGif-7192606d.gif" alt="Divvy App Demo" width="100%" />
-      </a>
-      <h3>Universal Bill Splitting Mobile App</h3>
-      <p>
-        Divvy is a mobile app developed for our Capstone course to simplify splitting group grocery and restaurant bills. Users upload a receipt, AWS and Google AI process the items, and the app generates Venmo payment links for each person.
-      </p>
-      <p>
-        🔗 <strong><a href="https://github.com/JadenBresciaVillanova/Divvy">Source Code</a></strong> | 🎥 <strong><a href="https://jadenbrescia.com/assets/FinalDivvyPosterVideo2-94190511.mp4">View Demo</a></strong>
-      </p>
-      <p>
-        <strong>Tech Stack:</strong><br>
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React Native" title="React Native" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS (Lambda, DynamoDB, S3)" title="AWS (Lambda, DynamoDB, S3)" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google AI" title="Google AI" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://img.shields.io/badge/Agile-42526E?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Methodologies" title="Agile Methodologies" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code" height="30"/></a>&nbsp;
-      </p>
-    </td>
+    <!-- Project 1: Divvy -->
+<td width="50%" valign="top">
+  <h3>Universal Bill Splitting Mobile App</h3>
+  <a href="https://github.com/JadenBresciaVillanova/Divvy">
+    <!-- The GIF is now correctly placed BELOW the title -->
+    <img src="https://jadenbrescia.com/assets/DivvyGif-7192606d.gif" alt="Divvy App Demo" width="100%" />
+  </a>
+  <p>
+    Divvy is a mobile app developed for our Capstone course to simplify splitting group grocery and restaurant bills. Users upload a receipt, AWS and Google AI process the items, and the app generates Venmo payment links for each person.
+  </p>
+  <p>
+    🔗 <strong><a href="https://github.com/JadenBresciaVillanova/Divvy">Source Code</a></strong> | 🎥 <strong><a href="https://jadenbrescia.com/assets/FinalDivvyPosterVideo2-94190511.mp4">View Demo</a></strong>
+  </p>
+  <p>
+    <strong>Tech Stack:</strong><br>
+    <!-- Icons have been updated with your new links -->
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React Native" title="React Native" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1280px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS Lambda" title="AWS Lambda" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="AWS DynamoDB" title="AWS DynamoDB" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="AWS S3" title="AWS S3" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/google-ai-1.svg" alt="Google AI" title="Google AI" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://thumbs.dreamstime.com/b/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-206202942.jpg" alt="Agile Methodologies" title="Agile Methodologies" height="30"/></a>&nbsp;
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code" height="30"/></a>&nbsp;
+  </p>
+</td>
     <td width="50%" valign="top">
       <!-- Project 2: RAG Agent -->
       <a href="https://github.com/JadenBresciaVillanova/local-llm">
