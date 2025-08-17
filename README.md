@@ -11,10 +11,8 @@
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <span style="font-size: 24px; font-weight: 600; display: inline-block; vertical-align: middle;">Hi, I'm Jaden Brescia, an aspiring</span>
-  &nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Software+Engineer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Full+Stack+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Mobile+App+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Data+Scientist" alt="Typing SVG" />
   </a>
 </div>
 
