@@ -125,7 +125,7 @@ I'm a passionate full-stack developer with a passion for creating innovative and
 
 <div align="center">
   
-## 🏆 My Projects
+## My Projects
 
 </div>
 
