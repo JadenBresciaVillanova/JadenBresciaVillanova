@@ -56,6 +56,7 @@
     <td align="left" valign="middle">
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" title="React" height="40"/></a>
       <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" alt="Angular" title="Angular" height="40"/></a>
+         <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML5" title="HTML5" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS3" title="CSS3" height="40"/></a>
       <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="40"/></a>
