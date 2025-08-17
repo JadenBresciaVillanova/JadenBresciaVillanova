@@ -123,6 +123,12 @@
 
 </div>
 <!-- This table creates the 2x2 grid for your projects. -->
+<div align="center">
+  
+## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
+
+</div>
+<!-- This table creates the 2x2 grid for your projects. -->
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
@@ -140,12 +146,12 @@
       </p>
       <p>
         <strong>Tech Stack:</strong><br>
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React Native" title="React Native" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/react.png" alt="React Native" title="React Native" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws_lambda.png" alt="AWS Lambda" title="AWS Lambda" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws_dynamodb.png" alt="AWS DynamoDB" title="AWS DynamoDB" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws_s3.png" alt="AWS S3" title="AWS S3" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/aws_lambda.png" alt="AWS Lambda" title="AWS Lambda" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/Amazon_DynamoDB.png" alt="AWS DynamoDB" title="AWS DynamoDB" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/aws_s3.png" alt="AWS S3" title="AWS S3" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/expo.png" alt="Expo" title="Expo" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/google_cloud.png" alt="Google AI" title="Google AI" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub" height="30"/></a>&nbsp;
       </p>
