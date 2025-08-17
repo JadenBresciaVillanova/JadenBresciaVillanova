@@ -105,12 +105,10 @@ I'm a passionate full-stack developer with a love for creating elegant and effic
 <p align="center">
   <img src="https://img.shields.io/badge/-Tools_&_OS-000000?style=flat-square&logo=git&logoColor=white" />
   <br>
-  <div align="left">
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" alt="Android Studio" title="Android Studio" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" title="Linux" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com/recaptcha/about/"><img src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="reCAPTCHA" title="reCAPTCHA" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </div>
   </p>
 
 
