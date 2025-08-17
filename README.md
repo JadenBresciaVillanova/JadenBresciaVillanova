@@ -11,10 +11,10 @@
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <h1 style="display: inline-block; vertical-align: middle; margin: -4;">Hi, I'm Jaden Brescia, an aspiring</h1>
+  <h1 style="display: inline-block; vertical-align: middle; margin: -4;">Hi, I'm Jaden Brescia, an aspiring <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" /></h1>
   &nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" />
+   
   </a>
 </div>
 
@@ -45,11 +45,11 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" alt="C" title="C" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" title="C++" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" alt="C#" title="C#" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="SQL" title="SQL" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="SQL" title="SQL" height="40"/></a>
   </p>
 </div>
 
-<!-- This table creates the side-by-side layout for Frontend and Backend. -->
+<!-- This table creates the side-by-side layout for Frontend and Backend -->
 <table align="center" style="width:100%; border:none;">
   <tr>
     <td align="center" valign="top">
@@ -87,7 +87,7 @@
   </p>
 </div>
 
-<!-- This table creates the side-by-side layout for Mobile and Data Science. -->
+<!-- This table creates the side-by-side layout for Mobile and Data Science -->
 <table align="center" style="width:100%; border:none;">
   <tr>
     <td align="center" valign="top">
