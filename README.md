@@ -15,7 +15,7 @@
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0693E3&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+%5BYour+Name%5D!;I'm+a+Full-Stack+Developer...;I'm+passionate+about+building+things+for+the+web.;Always+learning+and+growing." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0693E3&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Jaden+Brescia!;I'm+an+aspiring...;Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -30,15 +30,9 @@
 <!-- ✏️ EDIT THIS SECTION! ✏️-->
 I'm a passionate full-stack developer with a love for creating elegant and efficient solutions. I thrive on turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee.
 
-- 🔭 I’m currently working on **[Your Cool Project Name]**.
-- 🌱 I’m currently learning **[A New Technology, e.g., Go, Rust, or a new framework]**.
-- 👯 I’m looking to collaborate on **[Types of projects you're interested in, e.g., open-source tools, web apps]**.
-- 📫 How to reach me: **[Your Email or LinkedIn Profile Link]**
-- 😄 Pronouns: **[Your Pronouns, e.g., He/Him, She/Her, They/Them]**
-
 <!-- Skills Section -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="600px" />
+  <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="20px" />
 </div>
 
 ---
