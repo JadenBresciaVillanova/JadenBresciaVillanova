@@ -7,7 +7,7 @@
 -->
 
 <!-- Wave Layout - Top -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/wave-header.svg" />
+<img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/wave-header.svg" />
 
 <!-- Typewriter Animation -->
 <div align="center">
@@ -155,4 +155,4 @@ I'm a passionate full-stack developer with a love for creating elegant and effic
 
 
 <!-- Wave Layout - Bottom -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/wave-footer.svg" />
+<img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/wave-footer.svg" />
