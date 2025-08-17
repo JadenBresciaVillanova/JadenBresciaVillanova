@@ -160,7 +160,7 @@
     <!-- Project 1: Divvy -->
     <td width="50%" valign="top">
       <a href="https://github.com/JadenBresciaVillanova/Divvy">
-        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/DivvyGifBlurred.gif" alt="Divvy App Demo" width="100%" style="height: 300PX; object-fit: cover;" />
+        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/DivvyGifBlurred.gif" alt="Divvy App Demo" width="100%" style="height: 275PX; object-fit: cover;" />
       </a>
       <h3>Universal Bill Splitting Mobile App</h3>
       <p>
@@ -182,7 +182,7 @@
     <!-- Project 2: RAG Agent -->
     <td width="50%" valign="top">
       <a href="https://github.com/JadenBresciaVillanova/local-llm">
-        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/llm_gif.gif" alt="RAG Agent Demo" width="100%" style="height: 300px; object-fit: cover;" />
+        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/llm_gif.gif" alt="RAG Agent Demo" width="100%" style="height: 275px; object-fit: cover;" />
       </a>
       <h3>Full Stack Self-Hosted RAG Agent</h3>
       <p>
