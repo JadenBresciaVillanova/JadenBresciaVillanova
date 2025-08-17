@@ -126,10 +126,10 @@
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
-    <!-- Project 1: Divvy (CORRECTED) -->
+    <!-- Project 1: Divvy -->
     <td width="50%" valign="top">
       <a href="https://github.com/JadenBresciaVillanova/Divvy">
-        <img src="https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif" alt="Divvy App Demo" width="100%" />
+        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/DivvyGifBlurred.gif" alt="Divvy App Demo" width="100%" />
       </a>
       <h3>Universal Bill Splitting Mobile App</h3>
       <p>
@@ -154,7 +154,7 @@
     <!-- Project 2: RAG Agent -->
     <td width="50%" valign="top">
       <a href="https://github.com/JadenBresciaVillanova/local-llm">
-        <img src="https://jadenbrescia.com/assets/llm_gif-99505509.gif" alt="RAG Agent Demo" width="100%" />
+        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/llm_gif.gif" alt="RAG Agent Demo" width="100%" />
       </a>
       <h3>Full Stack Self-Hosted RAG Agent</h3>
       <p>
@@ -182,7 +182,7 @@
     <!-- Project 3: Monte Carlo Simulation -->
     <td width="50%" valign="top">
       <a href="https://bitbucket.org/jb100/workspace/projects/MON">
-        <img src="https://jadenbrescia.com/assets/MCGif-7106a36d.gif" alt="Monte Carlo Simulation Demo" width="100%" />
+        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/MCGif.gif" alt="Monte Carlo Simulation Demo" width="100%" />
       </a>
       <h3>Full-Stack Monte Carlo Simulation</h3>
       <p>
@@ -206,7 +206,7 @@
     <!-- Project 4: Personal Website -->
     <td width="50%" valign="top">
       <a>
-        <img src="https://jadenbrescia.com/assets/websiteGif-5a6d8cb1.gif" alt="Personal Website Demo" width="100%" />
+        <img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/websiteGIFCompressed.gif" alt="Personal Website Demo" width="100%" />
       </a>
       <h3>My Website - jadenbrescia.com</h3>
       <p>
