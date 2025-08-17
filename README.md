@@ -55,8 +55,8 @@ d: path("M 0,500 L 0,291 C 145.28571428571428,306.75 290.57142857142856,322.5 40
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <h1 style="display: inline-block;">Hi, I'm Jaden 👋, an aspiring</h1>
-  &nbsp;
+  <h1 style="display: inline-block;">Hi, I'm Jaden Brescia, an aspiring</h1>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0693E3&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" />
   </a>
