@@ -137,7 +137,7 @@
 
 <div align="left">
   
-## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
+## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> Highlighted Projects
 
 </div>
 
