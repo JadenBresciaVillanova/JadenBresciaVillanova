@@ -17,7 +17,7 @@
 </div>
 
 <div align="left">
-  <h2> <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> About Me </h2>
+  <h2> <img src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" width="20px" />  About Me </h2>
 
   <p>
     I'm passionate about software engineering because it offers me the chance to craft innovative solutions that can make a real difference in the world, whether it's building intuitive mobile apps or creating sophisticated algorithms to tackle complex problems. This field's constant evolution keeps me engaged and ensures I'm always learning something new. Any dynamic, collaborative career that aligns with my passion for problem-solving and learning new technology excites me.
@@ -122,7 +122,7 @@
 
 <div align="center">
   
-## My Projects
+## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
 
 </div>
 
