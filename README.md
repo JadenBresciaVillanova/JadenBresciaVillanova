@@ -22,7 +22,7 @@
 <!-- About Me Section -->
 
 <!-- ✏️ EDIT THIS SECTION! ✏️-->
-I'm a passionate full-stack developer with a love for creating elegant and efficient solutions. I thrive on turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee.
+I'm a passionate full-stack developer with a passion for creating innovative and efficient solutions. 
 
 
 
