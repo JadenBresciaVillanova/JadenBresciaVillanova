@@ -7,7 +7,7 @@
 -->
 
 <!-- Wave Layout - Top -->
-<img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/wave-header.svg" />
+<img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/wave-header.svg" height="150" />
 
 <!-- Typewriter Animation -->
 <div align="center">
