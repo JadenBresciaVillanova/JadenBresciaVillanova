@@ -11,13 +11,13 @@
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <h1 style="display: inline-block; vertical-align: middle; margin: -4;">Hi, I'm Jaden Brescia, an aspiring <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" /></h1>
+  <h2 style="display: inline-block; vertical-align: middle; margin: -4;">Hi, I'm Jaden Brescia, an aspiring <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" /></h2>
   &nbsp;
   </h1>
 </div>
 
 <div align="left">
-  <h2>## About Me </h2>
+  <h2> About Me </h2>
 
   <p>
     I'm passionate about software engineering because it offers me the chance to craft innovative solutions that can make a real difference in the world, whether it's building intuitive mobile apps or creating sophisticated algorithms to tackle complex problems. This field's constant evolution keeps me engaged and ensures I'm always learning something new. Any dynamic, collaborative career that aligns with my passion for problem-solving and learning new technology excites me.
