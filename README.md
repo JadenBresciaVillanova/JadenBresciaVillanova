@@ -12,12 +12,12 @@
 <!-- Typewriter Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Software+Engineer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Full+Stack+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Mobile+App+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Software+Engineer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Full+Stack+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Mobile+App+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Data+Scientist" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="left">
-  <h2> About Me </h2>
+  <h2> <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> About Me </h2>
 
   <p>
     I'm passionate about software engineering because it offers me the chance to craft innovative solutions that can make a real difference in the world, whether it's building intuitive mobile apps or creating sophisticated algorithms to tackle complex problems. This field's constant evolution keeps me engaged and ensures I'm always learning something new. Any dynamic, collaborative career that aligns with my passion for problem-solving and learning new technology excites me.
