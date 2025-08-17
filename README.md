@@ -66,7 +66,10 @@
     </td>
     <td align="left" valign="middle">
       <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png" alt="Django" title="Django" height="40"/></a>
-      <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" title="Firebase" height="40"/></a>
+      <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" title="Firebase" height="40"/>
+      <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="40"/></a>
+       <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" alt="Azure" title="Azure" height="40"/></a>
+         <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS" height="40"/></a>    
     </td>
   </tr>
   <tr>
@@ -144,9 +147,7 @@
         <strong>Tech Stack:</strong><br>
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React Native" title="React Native" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws_lambda.png" alt="AWS Lambda" title="AWS Lambda" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws_dynamodb.png" alt="AWS DynamoDB" title="AWS DynamoDB" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws_s3.png" alt="AWS S3" title="AWS S3" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub" height="30"/></a>&nbsp;
@@ -170,10 +171,8 @@
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" alt="Next.js" title="Next.js" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" title="TypeScript" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/ollama/ollama/main/.github/ollama.png" alt="Ollama" title="Ollama" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" alt="Node.js" title="Node.js" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/nextAuth.svg" alt="NextAuth" title="NextAuth" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" title="MongoDB" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="30"/></a>&nbsp;
