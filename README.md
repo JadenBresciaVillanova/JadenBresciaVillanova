@@ -11,9 +11,9 @@
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <h2 style="display: inline-block; vertical-align: middle; margin: -4;">Hi, I'm Jaden Brescia, an aspiring <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" /></h2>
+  <h2 style="display: inline-block; vertical-align: middle; margin: -4;">Hi, I'm Jaden Brescia, an aspiring <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=500&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" />
   &nbsp;
-  </h1>
+  </h2>
 </div>
 
 <div align="left">
