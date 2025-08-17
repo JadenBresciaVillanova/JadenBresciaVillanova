@@ -170,10 +170,10 @@
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" alt="Next.js" title="Next.js" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" title="TypeScript" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/ollama.svg" alt="Ollama" title="Ollama" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/ollama/ollama/main/.github/ollama.png" alt="Ollama" title="Ollama" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" alt="Node.js" title="Node.js" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/nextauth.png" alt="NextAuth" title="NextAuth" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/nextAuth.svg" alt="NextAuth" title="NextAuth" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" alt="MongoDB" title="MongoDB" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="30"/></a>&nbsp;
@@ -202,15 +202,12 @@
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" alt="C++" title="C++" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scala.png" alt="Scala" title="Scala" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" alt="Angular" title="Angular" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/Akka_toolkit_logo.png" alt="Akka" title="Akka" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" alt="Azure" title="Azure" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" title="Terraform" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" alt="Jenkins" title="Jenkins" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/azure-pipelines.png" alt="Azure Pipelines" title="Azure Pipelines" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mssql.png" alt="SQL Server" title="SQL Server" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/Splunk_logo.png" alt="Splunk" title="Splunk" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bitbucket.png" alt="Bitbucket" title="Bitbucket" height="30"/></a>&nbsp;
       </p>
     </td>
@@ -233,10 +230,7 @@
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vite.png" alt="Vite" title="Vite" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/google_cloud_function.png" alt="Google Cloud Function" title="Google Cloud Function" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" alt="Firebase" title="Firebase" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/reCaptcha.png" alt="reCAPTCHA" title="reCAPTCHA" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/JadenBresciaVillanova/Images/main/hostinger.svg" alt="Hostinger" title="Hostinger" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" alt="Node.js" title="Node.js" height="30"/></a>&nbsp;
       </p>
     </td>
