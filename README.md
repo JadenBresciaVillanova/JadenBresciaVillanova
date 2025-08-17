@@ -122,21 +122,21 @@
 ## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
 
 </div>
-<!-- This table creates the 2x2 grid for your projects. -->
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
     <td width="50%" valign="top">
       <!-- Project 1: Divvy -->
       <a href="https://github.com/JadenBresciaVillanova/Divvy">
-        <img src="link-to-your-divvy-gif.gif" alt="Divvy App Demo" width="100%" />
+        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted Divvy GIF ⬇️ -->
+        <img src="link-to-your-converted-divvy-video.gif" alt="Divvy App Demo" width="100%" />
       </a>
       <h3>Universal Bill Splitting Mobile App</h3>
       <p>
         Divvy is a mobile app developed for our Capstone course to simplify splitting group grocery and restaurant bills. Users upload a receipt, AWS and Google AI process the items, and the app generates Venmo payment links for each person.
       </p>
       <p>
-        🔗 <strong><a href="https://github.com/JadenBresciaVillanova/Divvy">Source Code</a></strong> | 🎥 <strong><a href="https://drive.google.com/file/d/1no2jdNaksYUIoHvHWFdyEWXoQArlFvnG/view?usp=sharing">View Demo</a></strong>
+        🔗 <strong><a href="https://github.com/JadenBresciaVillanova/Divvy">Source Code</a></strong> | 🎥 <strong><a href="https://jadenbrescia.com/assets/FinalDivvyPosterVideo2-94190511.mp4">View Demo</a></strong>
       </p>
       <p>
         <strong>Tech Stack:</strong><br>
@@ -150,7 +150,8 @@
     <td width="50%" valign="top">
       <!-- Project 2: RAG Agent -->
       <a href="https://github.com/JadenBresciaVillanova/local-llm">
-        <img src="link-to-your-rag-agent-gif.gif" alt="RAG Agent Demo" width="100%" />
+        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted RAG Agent GIF ⬇️ -->
+        <img src="link-to-your-converted-rag-agent-video.gif" alt="RAG Agent Demo" width="100%" />
       </a>
       <h3>Full Stack Self-Hosted RAG Agent</h3>
       <p>
@@ -164,7 +165,8 @@
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" alt="Next.js" title="Next.js" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" title="TypeScript" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" alt="FastAPI" title="FastAPI" height="30"/></a>&nbsp;
+        <!-- Updated FastAPI Icon -->
+        <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/512px-FastAPI_logo.svg.png" alt="FastAPI" title="FastAPI" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kafka.png" alt="Kafka" title="Kafka" height="30"/></a>&nbsp;
@@ -178,7 +180,8 @@
     <td width="50%" valign="top">
       <!-- Project 3: Monte Carlo Simulation -->
       <a href="https://bitbucket.org/jb100/workspace/projects/MON">
-        <img src="link-to-your-mc-gif.gif" alt="Monte Carlo Simulation Demo" width="100%" />
+        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted Monte Carlo GIF ⬇️ -->
+        <img src="link-to-your-converted-mc-video.gif" alt="Monte Carlo Simulation Demo" width="100%" />
       </a>
       <h3>Full-Stack Monte Carlo Simulation</h3>
       <p>
@@ -202,7 +205,8 @@
     <td width="50%" valign="top">
       <!-- Project 4: Personal Website -->
       <a>
-        <img src="link-to-your-website-gif.gif" alt="Personal Website Demo" width="100%" />
+        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted Website GIF ⬇️ -->
+        <img src="link-to-your-converted-website-video.gif" alt="Personal Website Demo" width="100%" />
       </a>
       <h3>My Website - jadenbrescia.com</h3>
       <p>
@@ -223,5 +227,3 @@
     </td>
   </tr>
 </table>
-<!-- Wave Layout - Bottom -->
-<img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/wave-footer.svg" />
