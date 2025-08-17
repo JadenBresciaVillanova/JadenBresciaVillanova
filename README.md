@@ -12,7 +12,7 @@
 <!-- Typewriter Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Software+Engineer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Full+Stack+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Mobile+App+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=000000&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Software+Engineer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Full+Stack+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Mobile+App+Developer;Hi%2C+I'm+Jaden+Brescia%2C+an+aspiring+Data+Scientist" alt="Typing SVG" />
   </a>
 </div>
 
