@@ -129,7 +129,7 @@
     <!-- Project 1: Divvy (CORRECTED) -->
     <td width="50%" valign="top">
       <a href="https://github.com/JadenBresciaVillanova/Divvy">
-        <img src="https://jadenbrescia.com/assets/DivvyGif-7192606d.gif" alt="Divvy App Demo" width="100%" />
+        <img src="https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif" alt="Divvy App Demo" width="100%" />
       </a>
       <h3>Universal Bill Splitting Mobile App</h3>
       <p>
