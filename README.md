@@ -11,10 +11,10 @@
 
 <!-- Typewriter Animation -->
 <div align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size: 28px; vertical-align: middle;">Hi, I'm Jaden Brescia, an aspiring</span>
+  <h1 style="display: inline-block; vertical-align: middle; margin: 0;">Hi, I'm Jaden Brescia, an aspiring</h1>
   &nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0693E3&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&pause=1000&color=24292f&center=true&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Data+Scientist" alt="Typing SVG" style="vertical-align: middle;" />
   </a>
 </div>
 
