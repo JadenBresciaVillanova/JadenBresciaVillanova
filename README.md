@@ -42,7 +42,7 @@
 </div>
 
 <!-- This table creates the side-by-side layout for Frontend and Backend -->
-<table align="center" style="width:100%; border:none;">
+<table align="center" style="width:100; border:none;">
   <tr>
      <td align="center" valign="top" style="background-color: white;">
       <h3>Frontend Development</h3>
