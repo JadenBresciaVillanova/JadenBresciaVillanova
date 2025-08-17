@@ -120,7 +120,7 @@
 </table>
 
 
-<div align="center">
+<div align="left">
   
 ## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
 
@@ -225,7 +225,11 @@
       <p>
         <strong>Tech Stack:</strong><br>
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" title="TypeScript" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="Javascript" title="Javascript" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" title="React" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="Html" title="Html" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vite.png" alt="Vite" title="Vite" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="30"/></a>&nbsp;
