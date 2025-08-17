@@ -71,6 +71,7 @@
       <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="40"/></a>
        <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" alt="Azure" title="Azure" height="40"/></a>
          <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS" height="40"/></a>    
+          <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot" height="40"/></a>    
     </td>
   </tr>
   <tr>
