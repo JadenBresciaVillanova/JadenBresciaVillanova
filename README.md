@@ -22,7 +22,6 @@
 <!-- About Me Section -->
 
 <!-- ✏️ EDIT THIS SECTION! ✏️-->
-I'm a passionate full-stack developer with a passion for creating innovative and efficient solutions. 
 
 
 
