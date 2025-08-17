@@ -235,3 +235,6 @@
     </td>
   </tr>
 </table>
+
+<!-- Wave Layout - Bottom -->
+<img src="https://raw.githubusercontent.com/JadenBresciaVillanova/JadenBresciaVillanova/main/wave-footer.svg"/>
