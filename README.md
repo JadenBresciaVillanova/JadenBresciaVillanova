@@ -72,7 +72,8 @@
       <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="40"/></a>
        <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" alt="Azure" title="Azure" height="40"/></a>
          <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS" height="40"/></a>    
-          <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot" height="40"/></a>    
+          <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot" height="40"/></a>
+        <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask" height="40"/></a>
     </td>
   </tr>
   <tr>
@@ -87,17 +88,21 @@
   </tr>
   <tr>
     <td align="right" valign="middle">
-      <strong>Cloud & DevOps:</strong>
-    </td>
-    <td align="left" valign="middle">
-      <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS" height="40"/></a>
-      <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" alt="Azure" title="Azure" height="40"/></a>
-      <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="40"/></a>
-      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="40"/></a>
-      <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" height="40"/></a>
-      <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" title="Terraform" height="40"/></a>
-      <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" alt="Jenkins" title="Jenkins" height="40"/></a>
-    </td>
+     <strong>Cloud & DevOps:</strong>
+</td>
+<td align="left" valign="middle">
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS" height="40"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" alt="Azure" title="Azure" height="40"/></a>
+  <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google Cloud" title="Google Cloud" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="40"/></a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes" height="40"/></a>
+  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" title="Terraform" height="40"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" alt="Jenkins" title="Jenkins" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD" height="40"/></a>
+  <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" alt="Grafana" title="Grafana" height="40"/></a>
+  <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus" height="40"/></a>
+  <a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" height="40"/></a>
+</td>
   </tr>
   <tr>
     <td align="right" valign="middle">
