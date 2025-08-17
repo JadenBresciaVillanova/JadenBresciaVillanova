@@ -111,9 +111,20 @@
   <a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" height="40"/></a>
 </td>
   </tr>
+        <tr>
+    <td align="right" valign="middle">
+     <strong>Communication:</strong>
+</td>
+<td align="left" valign="middle">
+
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP" height="40"/></a>
+     <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL" height="40"/></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="Websocket" title="Websocket" height="40"/></a>
+        </tr>
   <tr>
     <td align="right" valign="middle">
-      <strong>Data & AI:</strong>
+      <strong>Data Analytics:</strong>
     </td>
     <td align="left" valign="middle">
       <a href="https://www.tensorflow.org"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow" height="40"/></a>
