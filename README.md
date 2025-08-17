@@ -122,14 +122,14 @@
 ## <img src="https://github.com/demartini/demartini/raw/master/code.gif" width="20px" /> My Projects
 
 </div>
+<!-- This table creates the 2x2 grid for your projects. -->
 <table width="100%" border="0" cellspacing="15">
   <!-- Top Row of Projects -->
   <tr>
     <td width="50%" valign="top">
       <!-- Project 1: Divvy -->
       <a href="https://github.com/JadenBresciaVillanova/Divvy">
-        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted Divvy GIF ⬇️ -->
-        <img src="link-to-your-converted-divvy-video.gif" alt="Divvy App Demo" width="100%" />
+        <img src="https://jadenbrescia.com/assets/DivvyGif-7192606d.gif" alt="Divvy App Demo" width="100%" />
       </a>
       <h3>Universal Bill Splitting Mobile App</h3>
       <p>
@@ -142,16 +142,17 @@
         <strong>Tech Stack:</strong><br>
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React Native" title="React Native" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript" height="30"/></a>&nbsp;
-        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS Lambda, DynamoDB, S3" title="AWS Lambda, DynamoDB, S3" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS (Lambda, DynamoDB, S3)" title="AWS (Lambda, DynamoDB, S3)" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/expo.png" alt="Expo" title="Expo" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="Google AI" title="Google AI" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://img.shields.io/badge/Agile-42526E?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Methodologies" title="Agile Methodologies" height="30"/></a>&nbsp;
+        <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code" height="30"/></a>&nbsp;
       </p>
     </td>
     <td width="50%" valign="top">
       <!-- Project 2: RAG Agent -->
       <a href="https://github.com/JadenBresciaVillanova/local-llm">
-        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted RAG Agent GIF ⬇️ -->
-        <img src="link-to-your-converted-rag-agent-video.gif" alt="RAG Agent Demo" width="100%" />
+        <img src="https://jadenbrescia.com/assets/llm_gif-99505509.gif" alt="RAG Agent Demo" width="100%" />
       </a>
       <h3>Full Stack Self-Hosted RAG Agent</h3>
       <p>
@@ -165,7 +166,6 @@
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" alt="Next.js" title="Next.js" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" title="TypeScript" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python" height="30"/></a>&nbsp;
-        <!-- Updated FastAPI Icon -->
         <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/512px-FastAPI_logo.svg.png" alt="FastAPI" title="FastAPI" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" height="30"/></a>&nbsp;
         <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker" height="30"/></a>&nbsp;
@@ -180,8 +180,7 @@
     <td width="50%" valign="top">
       <!-- Project 3: Monte Carlo Simulation -->
       <a href="https://bitbucket.org/jb100/workspace/projects/MON">
-        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted Monte Carlo GIF ⬇️ -->
-        <img src="link-to-your-converted-mc-video.gif" alt="Monte Carlo Simulation Demo" width="100%" />
+        <img src="https://jadenbrescia.com/assets/MCGif-7106a36d.gif" alt="Monte Carlo Simulation Demo" width="100%" />
       </a>
       <h3>Full-Stack Monte Carlo Simulation</h3>
       <p>
@@ -205,8 +204,7 @@
     <td width="50%" valign="top">
       <!-- Project 4: Personal Website -->
       <a>
-        <!-- ⬇️ REPLACE THIS LINK with the raw link to your converted Website GIF ⬇️ -->
-        <img src="link-to-your-converted-website-video.gif" alt="Personal Website Demo" width="100%" />
+        <img src="https://jadenbrescia.com/assets/websiteGif-5a6d8cb1.gif" alt="Personal Website Demo" width="100%" />
       </a>
       <h3>My Website - jadenbrescia.com</h3>
       <p>
