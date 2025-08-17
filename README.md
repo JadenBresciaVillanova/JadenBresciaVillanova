@@ -31,7 +31,7 @@
 <p align="center" style="font-size: 14px; color: #4B4B4C; max-width: 700px; margin: 0 auto;">
   I have experience across a wide range of these skills—some I’ve applied extensively over the years, others I explored through projects to gain exposure. 
   Not every tool and technology I’ve worked with is represented here due to GitHub’s icon limitations, so feel free to visit my 
-  <a href="https://yourwebsite.com" target="_blank" style="text-decoration: none; color: #007acc;"><strong>website</strong></a> 
+  <a href="https://jadenbrescia.com" target="_blank" style="text-decoration: none; color: #007acc;"><strong>portfolio website</strong></a> 
   for a more complete overview.
 </p>
 
